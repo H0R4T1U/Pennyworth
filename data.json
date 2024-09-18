@@ -1,0 +1,50 @@
+{
+    "Reservations": [
+        {
+            "name": "Fam A",
+            "people": 4,
+            "checkIn": "2024-09-18",
+            "checkOut": "2024-09-25",
+            "room": 3,
+            "booking": true
+        },
+        {
+            "name": "Fam C",
+            "people": 4,
+            "checkIn": "2024-09-01",
+            "checkOut": "2024-09-30",
+            "room": 2,
+            "booking": false
+        }
+    ],
+    "Rooms": [
+        {
+            "id": 1,
+            "capacity": 3
+        },
+        {
+            "id": 2,
+            "capacity": 4
+        },
+        {
+            "id": 3,
+            "capacity": 4
+        },
+        {
+            "id": 4,
+            "capacity": 3
+        },
+        {
+            "id": 5,
+            "capacity": 4
+        },
+        {
+            "id": 6,
+            "capacity": 3
+        },
+        {
+            "id": 7,
+            "capacity": 3
+        }
+    ]
+}
