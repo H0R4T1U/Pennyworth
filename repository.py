@@ -67,6 +67,5 @@ class Repo:
             if not assigned:
                 reservation.room = -1  # No suitable room found
 
-        # Optionally, you could save data here
         self.save_data()
 
